@@ -1,7 +1,7 @@
 {
   "_": {
     "schema": "2",
-    "updated": "2018-03-26 13:29:17 UTC"
+    "updated": "2018-07-25 14:06:19 UTC"
   },
   "aaa": {
     "_type": "newgtld",
@@ -356,7 +356,7 @@
     "host": "whois.nic.attorney"
   },
   "au": {
-    "host": "whois.audns.net.au"
+    "host": "whois.auda.org.au"
   },
   "auction": {
     "_group": "donuts",
@@ -1049,6 +1049,11 @@
     "_type": "newgtld",
     "host": "whois.nic.google"
   },
+  "charity": {
+    "_group": "donuts",
+    "_type": "newgtld",
+    "host": "whois.nic.charity"
+  },
   "chase": {
     "_type": "newgtld",
     "adapter": "none"
@@ -1207,7 +1212,7 @@
   "cologne": {
     "_group": "knipp",
     "_type": "newgtld",
-    "host": "whois-fe1.pdt.cologne.tango.knipp.de"
+    "host": "whois.ryce-rsp.com"
   },
   "com": {
     "host": "whois.verisign-grs.com",
@@ -1907,7 +1912,7 @@
   "eus": {
     "_group": "coreregistry",
     "_type": "newgtld",
-    "host": "whois.eus.coreregistry.net"
+    "host": "whois.nic.eus"
   },
   "events": {
     "_group": "donuts",
@@ -1967,7 +1972,7 @@
     "host": "whois.nic.family"
   },
   "fan": {
-    "_group": "centralnic",
+    "_group": "donuts",
     "_type": "newgtld",
     "host": "whois.nic.fan"
   },
@@ -2297,7 +2302,7 @@
   "gal": {
     "_group": "coreregistry",
     "_type": "newgtld",
-    "host": "whois.gal.coreregistry.net"
+    "host": "whois.nic.gal"
   },
   "gallery": {
     "_group": "donuts",
@@ -2848,7 +2853,7 @@
     "host": "whois.id"
   },
   "ie": {
-    "host": "whois.domainregistry.ie"
+    "host": "whois.iedr.ie"
   },
   "ieee": {
     "_type": "newgtld",
@@ -2890,6 +2895,11 @@
   },
   "in": {
     "host": "whois.inregistry.net"
+  },
+  "inc": {
+    "_group": "uniregistry",
+    "_type": "newgtld",
+    "host": "whois.nic.inc"
   },
   "industries": {
     "_group": "donuts",
@@ -3005,10 +3015,6 @@
     "_group": "afiliassrs",
     "_type": "newgtld",
     "host": "whois.nic.iveco"
-  },
-  "iwc": {
-    "_type": "newgtld",
-    "adapter": "none"
   },
   "jaguar": {
     "_type": "newgtld",
@@ -3192,7 +3198,7 @@
   "koeln": {
     "_group": "knipp",
     "_type": "newgtld",
-    "host": "whois-fe1.pdt.koeln.tango.knipp.de"
+    "host": "whois.ryce-rsp.com"
   },
   "komatsu": {
     "_type": "newgtld",
@@ -3589,7 +3595,7 @@
   "mango": {
     "_group": "coreregistry",
     "_type": "newgtld",
-    "host": "whois.mango.coreregistry.net"
+    "host": "whois.nic.mango"
   },
   "map": {
     "_group": "google",
@@ -3683,10 +3689,6 @@
   "menu": {
     "_type": "newgtld",
     "host": "whois.nic.menu"
-  },
-  "meo": {
-    "_type": "newgtld",
-    "adapter": "none"
   },
   "merckmsd": {
     "_type": "newgtld",
@@ -4933,10 +4935,6 @@
     "_type": "newgtld",
     "host": "whois.nic.sap"
   },
-  "sapo": {
-    "_type": "newgtld",
-    "adapter": "none"
-  },
   "sarl": {
     "_group": "donuts",
     "_type": "newgtld",
@@ -5023,7 +5021,7 @@
   "scot": {
     "_group": "coreregistry",
     "_type": "newgtld",
-    "host": "whois.scot.coreregistry.net"
+    "host": "whois.nic.scot"
   },
   "sd": {
     "adapter": "none"
@@ -6841,10 +6839,6 @@
   "xn--zfr164b": {
     "_type": "newgtld",
     "host": "whois.conac.cn"
-  },
-  "xperia": {
-    "_type": "newgtld",
-    "host": "whois.nic.xperia"
   },
   "xxx": {
     "host": "whois.nic.xxx"
